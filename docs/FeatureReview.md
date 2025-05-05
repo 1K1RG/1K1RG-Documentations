@@ -2,7 +2,7 @@
 theme: minima
 title: "Feature Review"
 ---
-# SNP-Seek Genotype Search
+# Feature Review: SNP-Seek Genotype Search
 
 [![Status](https://img.shields.io/badge/status-active-brightgreen.svg)](#)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](#license)
