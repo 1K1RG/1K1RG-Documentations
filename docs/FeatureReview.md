@@ -1,3 +1,9 @@
+---
+layout: none
+title: ""
+---
+
+
 # SNP-Seek Genotype Search
 
 [![Status](https://img.shields.io/badge/status-active-brightgreen.svg)](#)
