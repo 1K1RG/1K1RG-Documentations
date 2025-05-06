@@ -60,22 +60,22 @@
 
  🎯 **Tangible Results**
 
-- 1. **[Feature review document](https://1k1rg.github.io/deliverablesAndDocs/FeatureReview)** (includes API/Use case design document)
-- 2. **[Code Repository](https://github.com/1K1RG/1k1RG-SNPseek)** (in Bitbucket or GitHub) with the initial project structure
+     1. **[Feature review document](https://1k1rg.github.io/deliverablesAndDocs/FeatureReview)** (includes API/Use case design document)
+     2. **[Code Repository](https://github.com/1K1RG/1k1RG-SNPseek)** (in Bitbucket or GitHub) with the initial project structure
 
 
 
 
 **Deliverable 2**: Data Preparation and Transformation (genotyping data for subset 3KRG accessions from PH)
 
-   - 1. **Clean, normalize, and validate data (VCFs)**
-   - 2. **Transform data into a suitable format (intermediate format prior to HDF5 creation)**
-   - 3. **Generate HDF5 files for efficient storage and retrieval of structured data**
-   - 4. **Prepare, curate passport and agro-morpho data for 1k1 TRVs**
-   - 5. **Transform variety data for application loading**
+    - 1. **Clean, normalize, and validate data (VCFs)**
+    - 2. **Transform data into a suitable format (intermediate format prior to HDF5 creation)**
+    - 3. **Generate HDF5 files for efficient storage and retrieval of structured data**
+    - 4. **Prepare, curate passport and agro-morpho data for 1k1 TRVs**
+    - 5. **Transform variety data for application loading**
 
  🎯 **Tangible Results**
 
-- 1. **[Scripts](https://github.com/1K1RG/1k1RG-sample)** for data validation and transformation, uploaded to repository
-- 2. **[Transformed data (genotype)](https://github.com/1K1RG/1kRG-sample)** in required formats
-- 3. **[HDF5 files](https://github.com/1K1RG/1k1RG-sample)** with structured data.
+    - 1. **[Scripts](https://github.com/1K1RG/1k1RG-sample)** for data validation and transformation, uploaded to repository
+    - 2. **[Transformed data (genotype)](https://github.com/1K1RG/1kRG-sample)** in required formats
+    - 3. **[HDF5 files](https://github.com/1K1RG/1k1RG-sample)** with structured data.
