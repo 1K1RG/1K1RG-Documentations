@@ -1,3 +1,5 @@
+[`1K1 Rice Genome Project – Philippines (Overview)`](https://github.com/1K1RG) 
+
 # 📊 **1kRG Activity Plan and Deliverables - IRRI**
 
 ## Table of Contents
