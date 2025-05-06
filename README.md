@@ -59,7 +59,7 @@
 - Identify additional use cases not in the current design but important to PH Rice GDB end users
 
 🎯 **Tangible Results (Q1)** {#tangible-results-q1}  
-1. [Feature review document](https://1k1rg.github.io/deliverablesAndDocs/FeatureReview) (includes API/Use Case Design Document)  
+1. [Feature review document](https://1k1rg.github.io/deliverablesAndDocs/docs/FeatureReview) (includes API/Use Case Design Document)  
 2. [Code Repository](https://github.com/1K1RG/1k1RG-SNPseek) (Bitbucket or GitHub) with the initial project structure  
 
 ---
