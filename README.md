@@ -44,38 +44,34 @@
 2. **Genotyping Data Preparation and Transformation**  
 3. **Variety and phenotyping data preparation and transformation**
 
-#### 📜 **Deliverables**
+### 📜 **Deliverables**
 
-**Deliverable 1**: Current SNP-Seek DB evaluation, gap analysis, and development roadmap
+#### **Deliverable 1**: Current SNP-Seek DB Evaluation, Gap Analysis, and Development Roadmap
 
-   - 1.1 **Review SNPseekv3 Feature**
-     - Identify key features and functionalities required by PH Rice GDB
-     - Confirm feature alignment with user needs (from project team discussions)
-   
-   - 1.2 **Set up software development version control**
-     - Create a project directory structure
-     - Organize configurations, components, utilities, and assets
-     - Identify and design initial API structure, use cases, and endpoints required by PH Rice GDB
-     - Identify additional use cases that are not in the current design but are important to PH Rice GDB end users
+**1. Review SNP-Seek v3 Features**  
+- Identify key features and functionalities required by PH Rice GDB  
+- Confirm feature alignment with user needs (from project team discussions)
 
- 🎯 **Tangible Results**
+**2. Set Up Software Development Version Control**  
+- Create a project directory structure  
+    - Organize configurations, components, utilities, and assets  
+- Identify and design initial API structure, use cases, and endpoints required by PH Rice GDB  
+- Identify additional use cases not in the current design but important to PH Rice GDB end users
 
-     1. **[Feature review document](https://1k1rg.github.io/deliverablesAndDocs/FeatureReview)** (includes API/Use case design document)
-     2. **[Code Repository](https://github.com/1K1RG/1k1RG-SNPseek)** (in Bitbucket or GitHub) with the initial project structure
-
+🎯 **Tangible Results**  
+1. [Feature review document](https://1k1rg.github.io/deliverablesAndDocs/FeatureReview) (includes API/Use Case Design Document)  
+2. [Code Repository](https://github.com/1K1RG/1k1RG-SNPseek) (Bitbucket or GitHub) with the initial project structure  
 
 
+#### **Deliverable 2**: Data Preparation and Transformation  
+*Genotyping data for subset 3KRG accessions from PH*
 
-**Deliverable 2**: Data Preparation and Transformation (genotyping data for subset 3KRG accessions from PH)
+1. Clean, normalize, and validate data (VCFs)  
+2. Transform data into a suitable intermediate format (prior to HDF5 creation)  
+3. Generate HDF5 files for efficient storage and retrieval of structured data  
+4. Prepare and curate passport and agro-morphological data for 1k1 TRVs  
+5. Transform variety data for application loading
 
-    - 1. **Clean, normalize, and validate data (VCFs)**
-    - 2. **Transform data into a suitable format (intermediate format prior to HDF5 creation)**
-    - 3. **Generate HDF5 files for efficient storage and retrieval of structured data**
-    - 4. **Prepare, curate passport and agro-morpho data for 1k1 TRVs**
-    - 5. **Transform variety data for application loading**
-
- 🎯 **Tangible Results**
-
-    - 1. **[Scripts](https://github.com/1K1RG/1k1RG-sample)** for data validation and transformation, uploaded to repository
-    - 2. **[Transformed data (genotype)](https://github.com/1K1RG/1kRG-sample)** in required formats
-    - 3. **[HDF5 files](https://github.com/1K1RG/1k1RG-sample)** with structured data.
+🎯 **Tangible Results**  
+1. [Scripts](https://github.com/1K1RG/1k1RG-sample) for data validation and transformation, uploaded to repository  
+2. [Transformed data (genotype)](https://github.com/1K1RG/1kRG-sampl)
