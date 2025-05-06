@@ -79,3 +79,4 @@
 1. [Scripts](https://github.com/1K1RG/1k1RG-Scripts) for data validation and transformation, uploaded to repository  
 2. [Transformed data (genotype)](https://github.com/1K1RG/1kRG-sample) in required formats  
 3. [HDF5 files](https://github.com/1K1RG/1k1RG-sample) with structured data
+4. [Raw Data](https://1k1rg.github.io/1k1RG-sample/) - Sample Raw Data and outputs
