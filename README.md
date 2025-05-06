@@ -3,11 +3,11 @@
 ## Table of Contents
 1. [🎯 Objectives](#objectives)
 2. [📅 Year 1 Targets](#year-1-targets)
-3. [📅 Quarter 1](#quarter-1)
-    - [📋 Activities](#activities)
-    - [📅 Sub-Activities](#sub-activities)
-    - [📜 Deliverables](#deliverables)
-    - [🎯 Tangible Results](#deliverables)
+    - [📅 Quarter 1](#quarter-1)
+        - [📋 Activities](#activities)
+        - [📅 Sub-Activities](#sub-activities)
+        - [📜 Deliverables](#deliverables)
+        - [🎯 Tangible Results](#deliverables)
     
 ---
 
