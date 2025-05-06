@@ -76,6 +76,6 @@
 5. Transform variety data for application loading
 
 🎯 **Tangible Results**  
-1. [Scripts](https://github.com/1K1RG/1k1RG-sample) for data validation and transformation, uploaded to repository  
+1. [Scripts](https://github.com/1K1RG/1k1RG-Scripts) for data validation and transformation, uploaded to repository  
 2. [Transformed data (genotype)](https://github.com/1K1RG/1kRG-sample) in required formats  
 3. [HDF5 files](https://github.com/1K1RG/1k1RG-sample) with structured data
